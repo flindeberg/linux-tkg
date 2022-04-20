@@ -100,7 +100,7 @@ case $_basever in
         	0012-linux-hardened.patch
 	)
 	sha256sums=('bf338980b1670bca287f9994b7441c2361907635879169c64ae78364efc5f491'
-            '003644c7745b578546ce974941e2251d115198dce735fad7df01e350502c7a32'
+            'd3dfc79212ddf1348c428ae8d1db7985d544cfde4c5b0455727ceed318837980'
             'b0c4c60669f47ba4d3d1388368a5f9790aa697af42c917ed2ef177f111336d8b'
             '1f4a20d6eaaa0d969af93152a65191492400c6aa838fc1c290b0dd29bb6019d8'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -305,7 +305,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            '2858ae1a797d5f9e5f6e8d7f5284e18ff9c2ae4ec57b8a8b80ba2ae4ca0f9718'
+            'ddd3d6adaeffe0ecc1fc96bfadedd9f685ab4a1f4e39c5e08c18970372867eb0'
             '13a39ab2be1301b60565cb6a4bedb2bca16b6b12427407c099a81169feb367d6'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -608,7 +608,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('57b2cf6991910e3b67a1b3490022e8a0674b6965c74c12da1e99d138d1991ee8'
-            'b1a34733513b1080e763532101def34af73b4ca5e4f9b442c3e7d378a1598088'
+            '1d278c2dca49d9db3255aa3976083bf71d6092b294f582bdc3866baf07c48daf'
             '24be2e8863e265195a24d7082804cd4328fd9f0a31b88672c884b9fd42469ed8'
             '6e3ef6bc4779ae3b7154642147d5ab3ece6e38e3e08bdb30f86d89d2b4855fa9'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -715,7 +715,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('555fef61dddb591a83d62dd04e252792f9af4ba9ef14683f64840e46fa20b1b1'
-            'ff55c64fdbb9490570d0a3f203b0e3ea98a8755f3aafb6e01cd7a23130999975'
+            'f9c6ea211fe793ee9bc31d7687da27b51de7c3767112b9afb14860077a523356'
             '05381b085c83737922a85fa6f42aa61b3d1400840a7952bf8524726e1d8f74f8'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
             '66a03c246037451a77b4d448565b1d7e9368270c7d02872fbd0b5d024ed0a997'
