@@ -100,7 +100,7 @@ case $_basever in
         	0012-linux-hardened.patch
 	)
 	sha256sums=('bf338980b1670bca287f9994b7441c2361907635879169c64ae78364efc5f491'
-            'd3dfc79212ddf1348c428ae8d1db7985d544cfde4c5b0455727ceed318837980'
+            'dd3f79e829a958beb6cb48717be42e6aa7abdf61426a51c813bdddcdd4e491e8'
             'b0c4c60669f47ba4d3d1388368a5f9790aa697af42c917ed2ef177f111336d8b'
             '1f4a20d6eaaa0d969af93152a65191492400c6aa838fc1c290b0dd29bb6019d8'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -305,7 +305,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            'ddd3d6adaeffe0ecc1fc96bfadedd9f685ab4a1f4e39c5e08c18970372867eb0'
+            '8ae3386954a390e635d1711d33b25eec0ee2c64007784ff9f5e267c9a0e21594'
             '13a39ab2be1301b60565cb6a4bedb2bca16b6b12427407c099a81169feb367d6'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
